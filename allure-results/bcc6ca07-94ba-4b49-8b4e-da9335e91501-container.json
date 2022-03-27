@@ -1,0 +1,1 @@
+{"uuid":"bcc6ca07-94ba-4b49-8b4e-da9335e91501","name":"QaTestLabTask","children":["55a6d08e-512d-4c16-b66b-68acf96634fa"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648388028291,"stop":1648388034013}],"afters":[],"start":1648388028244,"stop":1648388043187}
